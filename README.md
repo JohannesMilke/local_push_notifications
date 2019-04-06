@@ -1,16 +1,17 @@
-# april_1_local_push_notifications
+# Local Push Notification - Flutter
+Create local push notifications for your Flutter application on Android & iOS.
 
-A new Flutter project.
 
-## Getting Started
+Twitter: [@JohannesMilke](https://twitter.com/JohannesMilke "Twitter Johannes Milke")
 
-This project is a starting point for a Flutter application.
+Medium: https://medium.com/@johannesmilke
 
-A few resources to get you started if this is your first Flutter project:
+##### [YouTube video](https://www.youtube.com/watch?v=xMeCwF5MO6w "Youtube Johannes Milke") where the *source code* is explained. :mortar_board: [Subscribe to our YouTube channel.](http://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1 "YouTube Subscribe Johannes Milke") :thumbsup:  
+<a href="https://www.youtube.com/watch?v=xMeCwF5MO6w&feature=player_embedded
+" target="_blank"><img src="http://img.youtube.com/vi/xMeCwF5MO6w/maxresdefault.jpg" 
+alt="Local Push Notification - Flutter YouTube video" width="480" height="270" border="10" /></a>
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+#### If you are new to Flutter and want to get started --> [Install Flutter](https://flutter.io/docs/get-started/install "Install Flutter").
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+Feel free to reach out to me through email at milke.johannes@gmail.com if you have any questions or feedback! :blush:
